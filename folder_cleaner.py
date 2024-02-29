@@ -4,7 +4,7 @@ import logging
 
 # Folder to track 
     # ex: "C:\\Users\\UserName\\Downloads"
-SOURCE_DIR = "C:\\Users\\ksama\\Downloads"
+SOURCE_DIR = "Folder path"
 DESTINATIONS = {
     "Music" : os.path.join(SOURCE_DIR, "Musics"),
     "Videos" : os.path.join(SOURCE_DIR, "Videos"),
